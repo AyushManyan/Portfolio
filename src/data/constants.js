@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/AyushManyan",
   resume:
-    "https://drive.google.com/file/d/1JBhgz5rdgYuvKSbOqe8gX9OIfxSLq13f/view?usp=sharing",
+    "https://drive.google.com/file/d/1xxZkRQHAWDiZhQF7VjHddk7Kn9hIj3Iy/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ayush-manyan",
   twitter: "https://twitter.com/RishavChanda",
   leetcode:"https://leetcode.com/u/Ayush_Manyan/"
@@ -162,7 +162,7 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ae-RHWEL4sUfohHrus_Qo-U8lNanAFoUUw&s",
     school: "Lovely Professional University, Punjab",
     date: "Aug 2022 - Present",
-    grade: "8.08 CGPA",
+    grade: "8.13 CGPA",
     desc: "I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Lovely Professional University, Punjab, with a CGPA of 8.08. I am in my 6th semester and have completed coursework in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I have applied these concepts by building practical projects like AIBudgeteer – an AI-powered finance dashboard – and WanderIQ – a smart travel guidance platform. Through these projects, I’ve strengthened my skills in full-stack development and artificial intelligence integration.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
