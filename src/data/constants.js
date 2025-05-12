@@ -162,7 +162,7 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ae-RHWEL4sUfohHrus_Qo-U8lNanAFoUUw&s",
     school: "Lovely Professional University, Punjab",
     date: "Aug 2022 - Present",
-    grade: "8.2 CGPA",
+    grade: "8.13 CGPA",
     desc: "I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Lovely Professional University, Punjab, with a CGPA of 8.08. I am in my 6th semester and have completed coursework in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I have applied these concepts by building practical projects like AIBudgeteer – an AI-powered finance dashboard – and WanderIQ – a smart travel guidance platform. Through these projects, I’ve strengthened my skills in full-stack development and artificial intelligence integration.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
