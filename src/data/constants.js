@@ -9,8 +9,8 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/AyushManyan",
-  resume:
-    "https://drive.google.com/file/d/1xxZkRQHAWDiZhQF7VjHddk7Kn9hIj3Iy/view?usp=sharing",
+  // resume: "https://drive.google.com/file/d/1xxZkRQHAWDiZhQF7VjHddk7Kn9hIj3Iy/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1P5g-0WGgqnajfEzQMFwfOZhcWOFtNdB9/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ayush-manyan",
   twitter: "https://twitter.com/RishavChanda",
   leetcode:"https://leetcode.com/u/Ayush_Manyan/"
